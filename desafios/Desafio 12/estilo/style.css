@@ -54,7 +54,9 @@ html, body {
   }
 
   section > p {
+      
       padding-bottom: 2em;
+      border-radius: 10px;
   }
 
   section.normal {
